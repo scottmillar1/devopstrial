@@ -1,0 +1,2 @@
+# devopstrial
+june workshops
